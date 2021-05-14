@@ -15,6 +15,7 @@ function Head(props) {
             <p style={{ color: 'green', fontSize: 18, fontWeight: 'bold', marginLeft: 15 }}>{props.deploy}</p>
             <p style={{ color: 'green', fontSize: 18, fontWeight: 'bold', marginLeft: 15 }}>{props.deploy1}</p>
             <h2 style={{ color: "#4a54f1", marginLeft: 15, textDecoration: "underline" }}>Create token secrete on GetHub  </h2>
+            <h2 style={{ color: "#4a54f1", marginLeft: 15, textDecoration: "underline" }}>How to get secret token value  </h2>
             <p style={{ color: 'green', fontSize: 18, fontWeight: 'bold', marginLeft: 15 }}>
 
                 <ol>
