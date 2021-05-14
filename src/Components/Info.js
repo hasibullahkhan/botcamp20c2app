@@ -15,6 +15,7 @@ function Info(props) {
             <h3 style={{ color: "green", marginLeft: 15 }}>Gender :{props.gender} </h3>
             <h3 style={{ color: "green", marginLeft: 15 }}>Email  :{props.email} </h3>
             <h3 style={{ color: "green", marginLeft: 15 }}>Batch  :{props.batch} </h3>
+            <h3 style={{ color: "green", marginLeft: 15 }}>Online Teachers  :{props.tech} </h3>
         </div>
     )
 }
